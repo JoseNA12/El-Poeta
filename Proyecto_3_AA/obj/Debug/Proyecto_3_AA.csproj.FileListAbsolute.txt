@@ -1,0 +1,20 @@
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\bin\Debug\Proyecto_3_AA.exe.config
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\bin\Debug\Proyecto_3_AA.exe
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\bin\Debug\Proyecto_3_AA.pdb
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.csprojResolveAssemblyReference.cache
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.InterfaceU.resources
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.Properties.Resources.resources
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.csproj.GenerateResource.Cache
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.csproj.CoreCompileInputs.cache
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.exe
+D:\Dcoumentos\Tecnologico de Costa Rica\Cuarto Semestre\Analisis de Algoritmos\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.pdb
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\bin\Debug\Proyecto_3_AA.exe.config
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\bin\Debug\Proyecto_3_AA.exe
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\bin\Debug\Proyecto_3_AA.pdb
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.csprojResolveAssemblyReference.cache
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.InterfaceU.resources
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.Properties.Resources.resources
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.csproj.GenerateResource.Cache
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.exe
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.pdb
+C:\Users\jose_\Documents\GitHub\Proyectos_U\El Poeta\Proyecto_3_AA\obj\Debug\Proyecto_3_AA.csproj.CoreCompileInputs.cache
